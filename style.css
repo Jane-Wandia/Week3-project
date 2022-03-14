@@ -2,9 +2,13 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
-.imgcr{
-    height: 200vh;
-    width: 209vh;
+.background{
+    position: relative;
+    width: 100%;
+}
+
+.heading{
+    color: white;
+    position: relative; top: 50%;
 }
