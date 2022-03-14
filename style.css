@@ -1,14 +1,10 @@
 
-body{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    line-height: 1.5;
 }
-
-/* About Us section*/
-.ABOUT US-section{
-    min-height: 100vh;
-    background-color: aliceblue;
-
+.imgcr{
+    height: 200vh;
+    width: 209vh;
 }
