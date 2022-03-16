@@ -128,7 +128,7 @@
     padding: 15px;
 }
 .contact{
-    background-image: ;
+    background-image: url( "../images/backgrounds/622ca746235a7.jpg");
     background-position: center;
     background-repeat: no-repeat;
     color: white;
@@ -167,8 +167,25 @@ input[type="email"]::placeholder{
     width: 30%;
     margin-left: 25PX;
 }
+.form-inline{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center; 
+}
+
 button{
     margin-left: 20%;
     padding-bottom: 25px;
     margin-bottom: 15px;
+}
+footer{
+    padding-top: 30px;
+    text-align: center;
+}
+footer p{
+    font-family: ;
+    margin-top: 0px;
+    border-top-width: 0px;
+    margin-bottom: 0px;
 }
