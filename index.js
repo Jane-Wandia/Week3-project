@@ -1,3 +1,27 @@
+$(document).ready(function(){
+    $("#devIcon").click(function(){
+      $("#devIcon").slideDown('1500').hide('1000');
+      $("#development").show('1500');
+    });
+    $("#development").click(function(){
+      $("#development").slideUp('1500');
+      $("#devIcon").slideDown('1500');
+    });
+  });
+  
+  $(document).ready(function(){
+    $("#design-image").click(function(){
+      $("#design-image").hide('1000');
+      $("#para").show('1500');
+    });
+    $("#design").click(function(){
+      $("#design").slideUp('150');
+
+
+
+
+
+
 $(document).ready(function($) { 
     window.fnames = new Array(); 
     window.ftypes = new Array();

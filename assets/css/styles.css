@@ -60,7 +60,12 @@
     padding-top: 38px;
     padding-bottom: 48px;
     margin: auto;
+    display: flex;
+    flex-direction: column;
 }
+#whatWeDoRow{
+    margin-left: 200px;
+}  
 .headings{
     padding-bottom: 35px;
 }
@@ -68,22 +73,29 @@
     padding: 5px;
 }
 #development, #product, #design{
-    display: none;
+    display: none; 
     font-family: ;
     font-size: 16px;
     text-align: center;
 }
-#development .title, #product .title, #design .title{
-    display: none;
-    font-family: ;
-    font-size: 16px;
+#para{
+    display: none
 }
-#portfolio{
+#development .title, #product .title, #design .title{
+    display: none; 
+    font-family: ;
+    font-size: 16
+}
+#portfolio1, #portfolio2{
     display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    margin: auto;
-    width: 100%;
+    justify-content: space-evenly;
+    flex-wrap: wrap; 
+    align-items: center; 
+    margin: auto; 
+    width: 100%; 
+}
+#portfolio2{
+    padding-top: 5vh;
 }
 .portfolio h2{
     text-align: center;
@@ -95,7 +107,7 @@
     position: relative;
     width: 20%;
     margin-top: 20px;
-}
+} 
 .workImage{
     opacity: 1.0;
     display: block;
@@ -133,6 +145,8 @@
     background-repeat: no-repeat;
     color: white;
     text-align: center;
+    background-size: cover;
+    height: 600px;
 }
 .contact h2{
     text-align: center;
@@ -189,11 +203,15 @@ footer p{
     border-top-width: 0px;
     margin-bottom: 0px;
 }
-#designIcon {
+#design-image {
     width: 80px;
     height: 92px;
 }
-#productIcon {
+#product-image {
+    width: 80px;
+    height: 92px;
+}
+#developmet-image {
     width: 80px;
     height: 92px;
 }
