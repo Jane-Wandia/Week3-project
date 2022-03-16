@@ -127,3 +127,48 @@
     text-transform: uppercase;
     padding: 15px;
 }
+.contact{
+    background-image: ;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+}
+.contact h2{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    font-family: ;
+}
+#mce-FNAME, #mce-EMAIL, #mce-MSG{
+    background: transparent;
+    font-size: 17px;
+    font-family: ;
+    color: white;
+}
+input[type="text"]::placeholder{
+    color: white;
+}
+input[type="email"]::placeholder{
+    color: white;
+}
+#mce-MSG::placeholder{
+    color: white;
+}
+#mce-MSG{
+    margin-left: 20%;
+    width: 60%;
+    margin-top: 20px;
+}
+#mce-FNAME{
+    width: 30%;
+}
+#mce-EMAIL{
+    width: 30%;
+    margin-left: 25PX;
+}
+button{
+    margin-left: 20%;
+    padding-bottom: 25px;
+    margin-bottom: 15px;
+}
