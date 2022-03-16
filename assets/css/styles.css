@@ -189,3 +189,44 @@ footer p{
     border-top-width: 0px;
     margin-bottom: 0px;
 }
+#designIcon {
+    width: 80px;
+    height: 92px;
+}
+#productIcon {
+    width: 80px;
+    height: 92px;
+}
+
+@media only screen and (max-width;798 ){
+    [class*="col-md-4"] {
+        width: 80%;
+    }
+}
+[class*="col-md-4"] {
+    width: auto;
+    margin-top: 40px;
+    margin-left: 6px;
+    padding-right: 35px;
+}
+[class*="text"]{
+    border: 1.5px solid white;
+    background-color: black;
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 10px 16px;
+    text-align: left;
+}
+#portfolioRow {
+    margin-left: 125px;
+}
+#portfolioRow2{
+    margin-left: 125px;
+    padding-bottom: 15px;
+}
+#whatWeDoROWId {
+    margin-left: 100px;
+}
+}
