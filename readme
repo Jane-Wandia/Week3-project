@@ -8,4 +8,27 @@ studio has taken and each has a description which disappears and appears as you 
 and appears as you hover on the images in the portfolio section. images of some of the best photos th studio has taken and each has a description which disappears and appears as you hover on the images in the portfolio section. 
 
 screenshoot
-image scr= "assets/images/backgrounds/screenshot.png"
+
+<scr="./assets/images/backgrounds/background1.jpg">
+
+##Installation / Setup instruction"
+
+
+Open Terminal {Ctrl+Alt+T}
+
+git clone https://github.com/jane-kigenyis/Delani-Studio.git
+
+cd Delani-Studio
+
+code . or atom . depending on the text editor of your choise.
+
+###Known Bugs
+the code has a ploblem runing a what we do page
+Technologies Used
+{languages used here are HTML,CSS, jquery and bootstrap.}
+
+Support and contact details
+{In case of any issues or hitches experienced please do not hesitate to inform me through my email njerimwaura25@gmail.com.}
+
+License
+*{This code is available on the open-source 
