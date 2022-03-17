@@ -1,34 +1,49 @@
-#DELANI STUDIO
+DELANI STUDIO
 
 
-##Description
+Description
 
-This is a webpage for Delani studio which gives a detailed account about what they are, the services they offer, projects done so far and a contact page that the user can reach them to.There are also images of some of the best photos the 
-studio has taken and each has a description which disappears and appears as you hover on the images in the portfolio section. There are also images of some of the best photos th studio has taken and each has a description which disappears 
-and appears as you hover on the images in the portfolio section. images of some of the best photos th studio has taken and each has a description which disappears and appears as you hover on the images in the portfolio section. 
+This is my studio of invention site that showcase my prohect as a programer.
 
-screenshoot
+Author
 
-<scr="./assets/images/backgrounds/background1.jpg">
+Jane kigenyi
 
-##Installation / Setup instruction"
+A junior developer and a student at moringa school.
 
+Installation / Setup instruction
 
 Open Terminal {Ctrl+Alt+T}
 
 git clone https://github.com/jane-kigenyis/Delani-Studio.git
 
-cd Delani-Studio
+Open the folder in your favourite editor,for vscode,is code . and for atom, atom
 
-code . or atom . depending on the text editor of your choise.
+code  or atom  depending on the text editor of your choise.
 
-###Known Bugs
+Known Bugs
+
 the code has a ploblem runing a what we do page
+
 Technologies Used
-{languages used here are HTML,CSS, jquery and bootstrap.}
+
+languages used here are HTML,CSS, jquery and bootstrap.
 
 Support and contact details
-{In case of any issues or hitches experienced please do not hesitate to inform me through my email njerimwaura25@gmail.com.}
+
+In case of any issues or hitches experienced please do not hesitate to inform me through my email janekigenyi@gmail.com.
 
 License
 *{This code is available on the open-source 
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
