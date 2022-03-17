@@ -1,0 +1,36 @@
+#DELANI STUDIO
+
+
+##Description
+
+this is my studio of invention site that showcase my prohect as a programer.
+
+##Author
+
+Jane kigenyi
+a junior developer and a student at moringa school.
+##Installation / Setup instruction"
+
+
+Open Terminal {Ctrl+Alt+T}
+
+git clone https://github.com/jane-kigenyis/Delani-Studio.git
+
+Open the folder in your favourite editor,for vscode,is code . and for atom, atom
+
+code  or atom  depending on the text editor of your choise.
+
+##Known Bugs
+
+the code has a ploblem runing a what we do page
+
+##Technologies Used
+
+languages used here are HTML,CSS, jquery and bootstrap.
+
+Support and contact details
+
+In case of any issues or hitches experienced please do not hesitate to inform me through my email janekigenyi@gmail.com.
+
+License
+*{This code is available on the open-source 
