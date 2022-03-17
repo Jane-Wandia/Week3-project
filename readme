@@ -1,16 +1,17 @@
-#DELANI STUDIO
+DELANI STUDIO
 
 
-##Description
+Description
 
-this is my studio of invention site that showcase my prohect as a programer.
+This is my studio of invention site that showcase my prohect as a programer.
 
-##Author
+Author
 
 Jane kigenyi
-a junior developer and a student at moringa school.
-##Installation / Setup instruction"
 
+A junior developer and a student at moringa school.
+
+Installation / Setup instruction
 
 Open Terminal {Ctrl+Alt+T}
 
@@ -20,11 +21,11 @@ Open the folder in your favourite editor,for vscode,is code . and for atom, atom
 
 code  or atom  depending on the text editor of your choise.
 
-##Known Bugs
+Known Bugs
 
 the code has a ploblem runing a what we do page
 
-##Technologies Used
+Technologies Used
 
 languages used here are HTML,CSS, jquery and bootstrap.
 
